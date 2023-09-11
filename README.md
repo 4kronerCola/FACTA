@@ -1,3 +1,3 @@
 # FACTA
 
-Dette er en nettside laget for skolen ✌
+Det er bare fakta her oss # FACTA ✌
