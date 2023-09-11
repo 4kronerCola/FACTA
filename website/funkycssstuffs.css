@@ -1,0 +1,12 @@
+@font-face{
+    font-family: mainFont;
+    src:url(Porcine.ttf);
+}
+
+h1{
+    font-family: mainFont;
+}
+
+a{
+    font-family: mainFont;
+}
